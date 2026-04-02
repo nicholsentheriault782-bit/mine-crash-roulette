@@ -1,1 +1,1 @@
-export const API_URL = "https://casino.truebliss.dev"
+export const API_URL = "https://mine-crash-roulette-production.up.railway.app"
